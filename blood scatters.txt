@@ -1,0 +1,36 @@
+                                                               Blood Scatters
+1.Playing character:
+   In my game there are two playing chararcters one is boy and one is girl the people can what ever the can want 
+Non playing character:
+    There are many non playing characters.
+
+2.Game Story: 
+     My game is inspired by temple run and mario game it will be more adventurous than that it will have 
+many levels and etc..
+
+3.Goal:
+    In the game the people should defeat the enemy
+
+4.Rules:
+     The people should kill the enenmy if they miss the point will decrease.
+     If the people collect the burger their height will increase 2x.
+     If the touches the enemy their height will decrease.
+     If the people tap the screen twice the skatebord will activate.
+     If the people tap the screen trice the protection shield will activate.
+     If the people crosses the obstacle and they killed enemy they will get some intersting gifts and some money in the game,
+
+5.Balance:
+       The people who reached 5000 points will fly in the and have some tasks in the air.
+
+6.Adaptivity:
+      High score will be displayed in the home screen those who playing all around the world.
+
+7.Chances vs skills:
+        The player has 5 chances or life if it crosses it the player will die.
+        Every characters has a special skill.
+
+8.Feedback:
+         After playing the game every one should give the feedback about the game so we can develop the game even more attractive.
+       
+
+           
